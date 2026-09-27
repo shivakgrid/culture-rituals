@@ -1,3 +1,10 @@
+# Ancestral Remembrance: A Modern Guide
+
+This repository explores the historical, philosophical, and practical aspects of ancestral remembrance, with a primary focus on the Hindu observance of **Pitru Paksha**. 
+
+Designed for **Hindus worldwide**, this collection breaks down ancient rituals into understandable concepts, highlighting their connection to seasonal changes, global cultural parallels, and practical applications for contemporary life across different regions and backgrounds.
+
+
 1. [Understanding Pitru Paksha](01_understanding_pitru_paksha.md)
 2. [Philosophy and Rationale](02_philosophy_and_rationale.md)
 3. [Seasonal Connections](03_seasonal_connections.md)
