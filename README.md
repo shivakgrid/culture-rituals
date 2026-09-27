@@ -1,12 +1,12 @@
-# culture-rituals
-# File: README.md
+# Ancestral Remembrance: A Modern Guide
 
-# Ancestral Remembrance: Understanding Pitru Paksha
+This repository explores the historical, philosophical, and practical aspects of ancestral remembrance, with a primary focus on the Hindu observance of **Pitru Paksha**. 
 
-This repository explores the historical, philosophical, and practical dimensions of Pitru Paksha, a foundational period of ancestral remembrance. The contents provided here can serve as a companion to broader studies on "Hindu culture ", breaking down the rituals into their logical frameworks, seasonal relevance, and modern applications for global practitioners.
+Designed for **Hindus worldwide**, this collection breaks down ancient rituals into understandable concepts, highlighting their connection to seasonal changes, global cultural parallels, and practical applications for contemporary life across different regions and backgrounds.
 
-## Repository Contents
-*   **01_Meaning_and_Rationale.md:** The philosophical foundation of Pitru Rina (ancestral debt) and the logic behind traditional rituals.
-*   **02_Seasonal_Significance.md:** How the lunar calendar, agricultural cycles, and astronomical shifts align with the observance.
-*   **03_Global_Comparisons.md:** A comparative look at similar ancestral traditions across various world cultures.
-*   **04_Modern_and_NRI_Practices.md:** Practical adaptations for preserving family heritage in contemporary and expatriate lifestyles.
+## Contents
+1. [Understanding Pitru Paksha](01_understanding_pitru_paksha.md)
+2. [Philosophy and Rationale](02_philosophy_and_rationale.md)
+3. [Seasonal Connections](03_seasonal_connections.md)
+4. [Global Ancestor Traditions](04_global_ancestor_traditions.md)
+5. [Modern Adaptations for Hindus Worldwide](05_modern_adaptations_for_hindus_worldwide.md)
