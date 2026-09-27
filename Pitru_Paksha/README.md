@@ -12,4 +12,5 @@ Designed for **Hindus worldwide**, this collection breaks down ancient rituals i
 5. [Modern Adaptations for Hindus Worldwide](05_modern_adaptations_for_hindus_worldwide.md)
 6. [The Lighter Side of Lineage](06_the_lighter_side_of_lineage.md)
 7. [Gen Z and Generational Healing](07_gen_z_and_generational_healing.md)
+8. [Ancestors in the Movies](08_movies_and_ancestors.md)
 
